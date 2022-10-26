@@ -37,13 +37,13 @@ copyBtn.addEventListener("click", function () {
 
 // copy rgb code
 copyBtn2.addEventListener("click", function () {
-  navigator.clipboard.writeText(`#${output2.value}`);
+  navigator.clipboard.writeText(`${output2.value}`);
   if (div !== null) {
     div.remove();
     div = null;
   }
   if (isValidHex(output.value)) {
-    generateToastMessage(`#${output2.value} copied`);
+    generateToastMessage(`${output2.value} copied`);
   } else {
     alert("Invalid Color Code");
   }
