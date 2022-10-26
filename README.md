@@ -13,3 +13,5 @@ version 5 live site - https://joysarkarbd.github.io/random-color-code-generator/
 version 6 live site - https://joysarkarbd.github.io/random-color-code-generator/version-6
 
 version 7 live site - https://joysarkarbd.github.io/random-color-code-generator/version-7
+
+version 8 live site - https://joysarkarbd.github.io/random-color-code-generator/version-8
