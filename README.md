@@ -1,6 +1,6 @@
 # random-color-code-generator
 
-version 1 live site - https://joysarkarbd.github.io/random-color-code-generator/
+version 1 live site - https://joysarkarbd.github.io/random-color-code-generator/version-1
 
 version 2 live site - https://joysarkarbd.github.io/random-color-code-generator/version-2
 
