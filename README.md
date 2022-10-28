@@ -19,3 +19,5 @@ version 8 live site - https://joysarkarbd.github.io/random-color-code-generator/
 version 9 live site(ui only) - https://joysarkarbd.github.io/random-color-code-generator/version-9
 
 version 10 live site(js added but not fully functional) - https://joysarkarbd.github.io/random-color-code-generator/version-10
+
+version 11 live site(generate random hex & rgb color function added) - https://joysarkarbd.github.io/random-color-code-generator/version-11
