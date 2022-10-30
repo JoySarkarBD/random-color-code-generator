@@ -30,7 +30,7 @@ colorSliderGreen.addEventListener(
   "change",
   handleColorSliders(colorSliderRed, colorSliderGreen, colorSliderBlue)
 );
-colorSliderGreen.addEventListener(
+colorSliderBlue.addEventListener(
   "change",
   handleColorSliders(colorSliderRed, colorSliderGreen, colorSliderBlue)
 );
