@@ -96,7 +96,7 @@ function updateColorCodeToDom(color) {
 
   getID("color-display").style.backgroundColor = `${hexColor}`;
   getID("input-hex").value = hexColor.substring(1);
-  getID("input-rgb").value = rgbColor.toLocaleUpperCase();
+  getID("input-rgb").value = rgbColor;
   getID("color-slider-red").value = color.red;
   getID("color-slider-red-label").innerText = color.red;
   getID("color-slider-green").value = color.green;

@@ -23,3 +23,7 @@ version 10 live site(js added but not fully functional) - https://joysarkarbd.gi
 version 11 live site(generate random hex & rgb color function added) - https://joysarkarbd.github.io/random-color-code-generator/version-11
 
 version 12 live site(color slider added) - https://joysarkarbd.github.io/random-color-code-generator/version-12
+
+version 13 live site(color code copy added) - https://joysarkarbd.github.io/random-color-code-generator/version-13
+
+version 14 live site(color code copy added toast message) - https://joysarkarbd.github.io/random-color-code-generator/version-14
