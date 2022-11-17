@@ -27,3 +27,5 @@ version 12 live site(color slider added) - https://joysarkarbd.github.io/random-
 version 13 live site(color code copy added) - https://joysarkarbd.github.io/random-color-code-generator/version-13
 
 version 14 live site(color code copy added toast message) - https://joysarkarbd.github.io/random-color-code-generator/version-14
+
+version 15 live site(preset color palate added and sound effect) - https://joysarkarbd.github.io/random-color-code-generator/version-15
